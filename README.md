@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Zeyad Soliman
 
 🎓 ICT Student at New Cairo Technological University  
-💻 Passionate Backend Developer  
+💻 Passionate Full Stack Developer 
 🚀 Currently learning Flutter & improving problem solving  
 
 ---
 
 ## 🧑‍💻 About Me
 - 🔭 I’m currently working on: Banking & E-commerce Systems  
-- 🌱 I’m learning: Flutter & Advanced Backend  
-- 💬 Ask me about: C++, Java, SQL  
+- 🌱 I’m learning: how to use AI tools professionally & Advanced Backend  
+- 💬 Ask me about: C++, Java, PHP, SQL  
 - 🎯 Goal: Become a professional Software Engineer & build my own company  
 
 ---
@@ -19,9 +19,12 @@
 ### 👨‍💻 Programming Languages
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🗄️ Database
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-red?style=for-the-badge&logo=microsoftsqlserver)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 
 ---
 
@@ -49,20 +52,12 @@
 ### 🏫 Attendance System (PHP)
 - Login, Register, Dashboard, Excel Export
 
----
-
-## 📊 GitHub Stats
-
-![Zeyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+### 🎮 Tic Tac Toe Game (JavaScript)
+- Two-player classic game
+- Interactive UI with vanilla JavaScript
 
 ---
 
 ## 📫 Contact Me
 - 📧 Email: zs0530726@gmail.com  
-- 📱 Phone: 01008675714  
-
----
-
-⭐ From [Zeyad Soliman](https://github.com/YOUR_USERNAME)
+- 📱 Phone: 01008675714
